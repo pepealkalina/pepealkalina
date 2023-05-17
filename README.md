@@ -21,9 +21,6 @@
     </p>
 </div>
 <br>
-<br>
-<br>
-
 <div align="left">
     <h1 align="center">📊 GitHub Stats 📊</h1>
     <a href="https://github.com/pepealkalina">
