@@ -16,7 +16,7 @@
     </ul>
     <br>
     <p align="left">
-    I like to ork in system management, software development, and cibersecurity. But i have hobbies like draw an sports mainly voleyball and kendo.
+    I like to work in system management, software development, and cibersecurity.
     </p>
     </p>
 </div>
