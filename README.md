@@ -27,7 +27,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=pepealkalina&theme=monokai&title=Commits,Followers,Repositories,MultiLanguage"/>
     <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepealkalina&theme=monokai&layout=compact&langs_count=6" height="130em" alt="pepealkalina"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=pepealkalina&theme=monokai&show_icons=true&count_private=true&include_all_commits=true" height="130em" alt="pepealkalina"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=pepealkalina&show_icons=true&theme=monokai" height="200em"/>
     </a>
 </div>
 <br>
